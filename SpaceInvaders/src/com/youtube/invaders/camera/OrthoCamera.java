@@ -7,7 +7,7 @@ import com.badlogic.gdx.math.Vector3;
 import com.youtube.invaders.MainGame;
 
 public class OrthoCamera extends OrthographicCamera {
-
+holaaaaaa cruck
 	Vector3 tmp = new Vector3();
 	Vector2 origin = new Vector2();
 	VirtualViewport virtualViewport;
